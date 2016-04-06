@@ -1,0 +1,30 @@
+{
+  "Comida" : [
+    {
+      "NombreCientifico" : "Acheta domesticus",
+      "NombreComun" : "Grillo doméstico",
+      "Caracteristicas" : "Alto en Proteínas y Grasa"
+    },{
+      "NombreCientifico" : "Blaptica dubia",
+      "NombreComun" : "Cucuaracha dubia",
+      "Caracteristicas" : "Alto en Proteínas"
+    },{
+      "NombreCientifico" : "Blaptica haywardi",
+      "NombreComun" : "Cucuaracha runner",
+      "Caracteristicas" : "Muy grasa, botana"
+    },{
+      "NombreCientifico" : "Tenerbrio  molitor",
+      "NombreComun" : "Gusano de cera",
+      "Caracteristicas" : "Alto contenido graso"
+    },{
+      "NombreCientifico" : "Bombyx mori",
+      "NombreComun" : "Gusano de seda",
+      "Caracteristicas" : "Alimento balanceado"
+    },
+    {
+      "NombreCientifico" : "Brachylpema  vagans",
+      "NombreComun" : "Tarántula de vientre rosado",
+      "Caracteristicas" : "Alimento balanceado"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">HerpApp</string>
+    <string name="title_activity_splah_screen">SplahScreen</string>
+    <string name="stringAnimales">Animales</string>
+    <string name="stringComida">Alimento Vivo</string>
+    <string name="HerpApp">HerpApp</string>
+    <string name="StringEnciclopedia">Enciclopedia</string>
+    <string name="StringMonitor">Seguimiento a Ejemplares</string>
+    <string name="tituloAnimales">Animales</string>
+    <string name="StringComida">Seguimiento Alimento</string>
+    <string name="tituloComida">Alimento Vivo</string>
+    <string name="registroAnimal">Registrar Animales</string>
+    <string name="ConsultaAnimales">Consulta Animales</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nombreAnimalconsulta">Nombre del Animal</string>
+    <string name="tipoComida">Tipo de Alimento</string>
+    <string name="IntervaloAlimento">Intervalo entre Alimentos</string>
+    <string name="fechaComida">Inicio de Alimentos</string>
+    <string name="especieAnimal">Especie del Animal</string>
+    <string name="SubmitAnimal">Registrar</string>
+    <string name="nombreComida">Nombre Alimento</string>
+    <string name="fechaCambioComida">Cambio de Alimento</string>
+    <string name="cantidadComida">Cantidad Alimento</string>
+    <string name="registroComidas">Registro Alimento</string>
+    <string name="ConsultaComida">consultaAlimento</string>
+    <string name="nombreAnimalFr">Nombre Animal</string>
+    <string name="nombreCientifico">nombreCientifico</string>
+    <string name="nCientifico">Nombre Cientifico</string>
+    <string name="ProximaComida">Proxima Comida</string>
+    <string name="tipoAlimentoFragment">Tipo Alimento</string>
+    <string name="nombreComidaFr">Nombre Alimento</string>
+    <string name="cantidadAlimento">Cantidad Alimento</string>
+</resources>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.sebastianchimal.herpapp.Comidas"
+    android:background="@drawable/fondomenuprincipal">
+    <Button
+        android:layout_width="@dimen/widthComidaMain"
+        android:layout_height="@dimen/heightComidaMain"
+        android:id="@+id/AnimalesBoton"
+        android:background="@drawable/btnenciclopedia"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="48dp"
+        android:layout_marginStart="48dp"
+        android:layout_alignParentEnd="false"
+        android:onClick="enciclopediaComidas" />
+
+    <Button
+        android:layout_width="@dimen/widthComidaMain"
+        android:layout_height="@dimen/heightComidaMain"
+        android:id="@+id/comidaBoton"
+        android:layout_alignTop="@+id/AnimalesBoton"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="39dp"
+        android:layout_marginEnd="39dp"
+        android:background="@drawable/btnmonitoreo"
+        android:onClick="alimentoVivo" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/StringEnciclopedia"
+        android:id="@+id/textView2"
+        android:layout_below="@+id/AnimalesBoton"
+        android:layout_alignRight="@+id/AnimalesBoton"
+        android:layout_alignEnd="@+id/AnimalesBoton"
+        android:layout_marginTop="51dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/StringComida"
+        android:id="@+id/textView4"
+        android:layout_alignTop="@+id/textView2"
+        android:layout_alignLeft="@+id/comidaBoton"
+        android:layout_alignStart="@+id/comidaBoton" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/tituloComida"
+        android:id="@+id/textView5"
+        android:layout_above="@+id/AnimalesBoton"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="53dp" />
+
+
+</RelativeLayout>
