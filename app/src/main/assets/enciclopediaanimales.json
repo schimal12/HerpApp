@@ -5,37 +5,55 @@
         "NombreCientifico":"Mauremys reevesii",
         "NombreComun":"Tortuga de Hilos Dorados de China",
         "Habitat" : "Pantanos de la provincia de Xi'An",
-        "Alimentacion" : "Crustaceos, Peces, Pellet"
+        "Alimentacion" : "Crustaceos, Peces, Pellet",
+        "Lat" : 34.6058852,
+        "Long": 110.4474884,
+        "youtube":"68wI2q0PqP4"
       },
       {
         "NombreCientifico":"Sternotherus  odoratus",
         "NombreComun":"Tortuga Almizclera",
         "Habitat" : "Ríos de Mississipi",
-        "Alimentacion" : "Crustaceos y moluscos. Pellet ocasional"
+        "Alimentacion" : "Crustaceos y moluscos. Pellet ocasional",
+        "Lat" : 38.3377197,
+        "Long": -92.2464486,
+        "youtube":"YyOm6-t4ACs"
       },
       {
         "NombreCientifico":"Malaclemys terrapin",
         "NombreComun":"Tortuga Lomo de Diamante",
         "Habitat" : "Everglades, Florida",
-        "Alimentacion" : "Vegetación del lecho de los ríos"
+        "Alimentacion" : "Vegetación del lecho de los ríos",
+        "Lat" : 25.6643618,
+        "Long": -81.3647204,
+        "youtube":"FJXRUrIZx5o"
       },
       {
         "NombreCientifico":"Emydura subglobosa",
         "NombreComun":"Tortuga Vientre Naranja de Indonesia",
         "Habitat" : "Irian Jaya, Indonesia",
-        "Alimentacion" : "Peces, carroña, vegetación"
+        "Alimentacion" : "Peces, carroña, vegetación",
+        "Lat" : -3.9659668,
+        "Long": 136.3840127,
+        "youtube":"1iLFrD0-M4s"
       },
       {
         "NombreCientifico":"Pseudemys concinna hyeroglyphica",
         "NombreComun":"Cooter de la Florida",
         "Habitat" : "Everglades, Florida",
-        "Alimentacion" : "Crustaceos, Peces, Pellet"
+        "Alimentacion" : "Crustaceos, Peces, Pellet",
+        "Lat" : 25.6643618,
+        "Long": -81.3647204,
+        "youtube":"StOZmOGU8vs"
       },
       {
         "NombreCientifico":"Trachemys scripta elegans",
         "NombreComun":"Tortuga de Orejas Rojas",
         "Habitat" : "Everglades, Florida",
-        "Alimentacion" : "Crustaceos, Peces, Pellet"
+        "Alimentacion" : "Crustaceos, Peces, Pellet",
+        "Lat" : 25.6643618,
+        "Long": -81.3647204,
+        "youtube":"DknyHeyeBeA"
       }
     ],
     "Ranas" : [
@@ -43,36 +61,55 @@
         "NombreCientifico" : "Ranitomeya variabilis southern",
         "NombreComun" : "No tiene",
         "Habitat" : "Amazonas, Tarapoto, Perú",
-        "Alimentacion" : "Pequeños insectos"
+        "Alimentacion" : "Pequeños insectos",
+        "Lat" : -6.3551925,
+        "Long": -76.2689725,
+        "youtube":"-PC0cTiik-Y"
+
       },
       {
-        "NombreCientifico" : "Dendrobate auratus Panamá",
+        "NombreCientifico" : "Dendrobate auratus Panama",
         "NombreComun" : "Rana Dardo Menta",
         "Habitat" : "Selvas de Panamá",
-        "Alimentacion" : "Pequeños insectos"
+        "Alimentacion" : "Pequeños insectos",
+        "Lat" : -6.3551925,
+        "Long": -76.2689725,
+        "youtube":"vvVG62ueo9s"
       },
       {
         "NombreCientifico" : "Anotheca spinosa",
         "NombreComun" : "Rana Coronada de Costa Rica",
         "Habitat" : "Selvas de Costa Rica",
-        "Alimentacion" : "Pequeños insectos"
+        "Alimentacion" : "Pequeños insectos",
+        "Lat" : -6.3551925,
+        "Long": -76.2689725,
+        "youtube":"KTqumwZE7dI"
       },
       {
         "NombreCientifico" : "Hyalinobatrachium fleischmanni",
         "NombreComun" : "Rana Cristal del Amazonas",
         "Habitat" : "Caynarachi Perú",
-        "Alimentacion" : "Pequeños insectos"
+        "Alimentacion" : "Pequeños insectos",
+        "Lat" : -6.3551925,
+        "Long": -76.2689725,
+        "youtube":"W5k_S8N0pFo"
       },
       {
         "NombreCientifico" : "Agalachnys callidras",
         "NombreComun" : "Rana Ojos Rojos",
         "Habitat" : "Chiapas, México",
-        "Alimentacion" : "Pequeños insectos"
+        "Alimentacion" : "Pequeños insectos",
+        "Lat" : -6.3551925,
+        "Long": -76.2689725,
+        "youtube":"9r8_gkHG8e0"
       },{
         "NombreCientifico" : "Ambystoma tigrinum",
         "NombreComun" : "Salamandra Tigre",
         "Habitat" : "Bosques de Canadá",
-        "Alimentacion" : "Pequeños insectos"
+        "Alimentacion" : "Pequeños insectos",
+        "Lat" : -6.3551925,
+        "Long": -76.2689725,
+        "youtube":"OWUmDcwMyRU"
       }
     ],
     "Abronias" : [
@@ -80,19 +117,28 @@
         "NombreCientifico" : "Abronia graminea",
         "NombreComun" : "Lagarto alicante de veracruz",
         "Habitat" : "Los Tuxtlas, Veracruz",
-        "Alimentacion" : "Pequeños insectos"
+        "Alimentacion" : "Pequeños insectos",
+        "Lat" : -6.3551925,
+        "Long": -76.2689725,
+        "youtube":"4NOo5tLPzB8"
       },
       {
         "NombreCientifico" : "Abronia deppeii",
         "NombreComun" : "Lagarto alicante de Michoacán",
         "Habitat" : "Zitacuaro, Veracruz",
-        "Alimentacion" : "Pequeños insectos"
+        "Alimentacion" : "Pequeños insectos",
+        "Lat" : -6.3551925,
+        "Long": -76.2689725,
+        "youtube":"kX_pZgYBQfU"
       },
       {
         "NombreCientifico" : "Abronia taeniata",
         "NombreComun" : "Lagarto alicante de Tamaulipas",
         "Habitat" : "Alrededores de Cd. Victoria, Tamaulipas",
-        "Alimentacion" : "Pequeños insectos"
+        "Alimentacion" : "Pequeños insectos",
+        "Lat" : -6.3551925,
+        "Long": -76.2689725,
+        "youtube":"xFnISdqF7ts"
       }
     ]
   }

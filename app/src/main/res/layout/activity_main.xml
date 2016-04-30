@@ -20,7 +20,7 @@
         android:layout_alignParentStart="true"
         android:layout_marginLeft="48dp"
         android:layout_marginStart="48dp"
-        android:clickable="false"
+        android:clickable="true"
         android:onClick="Animales" />/>
 
     <Button

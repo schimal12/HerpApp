@@ -16,10 +16,11 @@ public class MainActivity extends AppCompatActivity {
 
     }
     private int VALOR_SUBACTIVIDAD = 5007;
-    public void Animales(View v){
-        Intent animales = new Intent(this,Animales.class);
-        startActivityForResult(animales,VALOR_SUBACTIVIDAD);
+    public void Animales(View v) {
+        Intent animales = new Intent(this, Animales.class);
+        startActivity(animales);
     }
+
     public void Comida(View v){
         Intent comida = new Intent(this,Comidas.class);
         startActivityForResult(comida,VALOR_SUBACTIVIDAD);
